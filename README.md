@@ -1,1 +1,1 @@
-### Its me <img src="https://github.com/luigilodi/luigilodi/assets/28441957/f84ea8fd-4ff2-4094-943d-9d69d49769dd" width="18%" >
+### <img src="https://github.com/luigilodi/luigilodi/assets/28441957/e7b4729f-1a75-4bf7-8220-8a9b3681071b" width="35%" >
