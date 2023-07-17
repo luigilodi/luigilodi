@@ -2,5 +2,5 @@
 
 <div>
 
-  <img src="https://github.com/luigilodi/luigilodi/assets/28441957/87244b4a-a2eb-4eea-a2d2-4d526257a7f1" width="50%" >
+  <img src="https://github.com/luigilodi/luigilodi/assets/28441957/87244b4a-a2eb-4eea-a2d2-4d526257a7f1" width="65%" >
 </div>
